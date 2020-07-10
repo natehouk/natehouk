@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my blog linuxdev.io
+- 🔭 I’m currently working on my blog http://linuxdev.io
 - 🌱 I’m currently learning PySpark
 - 👯 I’m looking to collaborate on screenplays
 - 🤔 I’m looking for help with organizing recipes
