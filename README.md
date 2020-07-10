@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my blog http://linuxdev.io
 - 🌱 I’m currently learning PySpark
-- 👯 I’m looking to collaborate on screenplays
-- 🤔 I’m looking for help with organizing recipes
+- 👯 I’m looking to collaborate on a podcast
+- 🤔 I’m looking for help with editing a screenplay
 - 💬 Ask me about anything
 - 📫 How to reach me: root@linuxdeveloper.io
 - 😄 Pronouns: he/him
@@ -25,3 +25,5 @@ In Fall 2005 I won the USC Programming Contest writing my solutions in C++. My E
 In 2006 I founded the USC Chapter of Engineers Without Borders and served as the President through 2008. The EWB-USC club is a 501(c)3 organization dedicated to improving lives through sustainable water and related engineering projects.
 
 I grew up on Bainbridge Island, WA and graduated from Bainbridge High School in 2004. 
+
+Learn more at http://linuxdeveloper.io
