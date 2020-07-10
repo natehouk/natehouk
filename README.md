@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my blog http://linuxdev.io
+- 🔭 I’m currently working on my blog https://linuxdev.io
 - 🌱 I’m currently learning PySpark
 - 👯 I’m looking to collaborate on a podcast
 - 🤔 I’m looking for help with editing a screenplay
@@ -26,4 +26,4 @@ In 2006 I founded the USC Chapter of Engineers Without Borders and served as the
 
 I grew up on Bainbridge Island, WA and graduated from Bainbridge High School in 2004. 
 
-Learn more at http://linuxdeveloper.io
+Learn more at https://linuxdeveloper.io
