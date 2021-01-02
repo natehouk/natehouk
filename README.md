@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: root@linuxdeveloper.io
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I've travelled to 50 counties
+- ⚡ Fun fact: I've travelled to over 50 counties
 
 I am an engineer at Flow Traders, where I work on devops for high frequency trading. I have professional experience developing in Python, C#, and Java.
 
