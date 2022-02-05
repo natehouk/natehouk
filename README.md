@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with editing a screenplay
 - 💬 Ask me about anything
 - 📫 How to reach me: root@linuxdeveloper.io
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I've travelled to over 50 countries
 
 I am an engineer at Flow Traders, where I work on devops for high frequency trading. I have professional experience developing in Python, C#, and Java.
