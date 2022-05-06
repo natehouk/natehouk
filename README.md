@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: root@linuxdeveloper.io
 - ⚡ Fun fact: I've travelled to over 50 countries
 
-I am an engineer at Flow Traders, where I work on devops for high frequency trading. I have professional experience developing in Python, C#, and Java.
+I am an HFT engineer at Flow Traders, where I work on devops for high frequency trading. I have professional experience developing in Python, C#, and Java.
 
 I did my bachelors at the University of Southern California where I graduated in 2008 summa cum laude with a 4.0 major GPA in Computer Engineering and Computer Science. I worked as a teaching assisant for EE106 taught by Professor Mark Redekopp.
 
