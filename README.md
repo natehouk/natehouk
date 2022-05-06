@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on my blog https://linuxdev.io
+- 🔭 I’m currently working on my blog https://blog.linuxdeveloper.io
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on a podcast
 - 🤔 I’m looking for help with editing a screenplay
