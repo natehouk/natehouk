@@ -24,4 +24,4 @@ In 2006 I founded the USC Chapter of Engineers Without Borders and served as the
 
 I grew up on Bainbridge Island, WA and graduated from Bainbridge High School in 2004. 
 
-Learn more at https://linuxdeveloper.io
+Learn more at https://natehouk.com
