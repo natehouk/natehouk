@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Rust
-- 👯 I’m recording and publishing a techno podcast
+- 👯 I’m recording and publishing techno
 - 🤔 I’m looking for help with editing a screenplay
 - 💬 Ask me about anything
 - 📫 How to reach me: root@linuxdeveloper.io
