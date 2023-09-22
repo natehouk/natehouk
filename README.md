@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m recording and publishing techno
 - 🤔 I’m looking for help with editing a screenplay
 - 💬 Ask me about anything
-- 📫 How to reach me: root@linuxdeveloper.io
+- 📫 How to reach me: nate.houk@gmail.com
 - ⚡ Fun fact: I've travelled to over 50 countries
 
 I am an HFT engineer at Flow Traders, where I work on devops for high frequency trading. I have professional experience developing in Python, C#, and Java.
