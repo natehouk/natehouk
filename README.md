@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nate.houk@gmail.com
 - ⚡ Fun fact: I've travelled to over 50 countries
 
-I am an HFT engineer at Flow Traders, where I work on devops for high frequency trading. I have professional experience developing in Python, C#, and Java.
-
 I did my bachelors at the University of Southern California where I graduated in 2008 summa cum laude with a 4.0 major GPA in Computer Engineering and Computer Science. I worked as a teaching assisant for EE106 taught by Professor Mark Redekopp.
 
 In Fall 2005 I won the USC Programming Contest writing my solutions in C++. My EE459 senior design project involved writing embedded C and reverse engineering the Apple 30-pin connector to build an alarm clock called iSnooze.
