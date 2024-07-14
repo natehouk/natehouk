@@ -1,11 +1,23 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Nate 👨‍💻
+</h1>
 
-<!--
-**natehouk/natehouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Amsterdam, Netherlands
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://github.com/sponsors/natehouk">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/natehouk/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
--->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=natehouk&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 - 🌱 I’m currently learning Rust
 - 👯 I’m recording and publishing techno
