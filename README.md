@@ -28,7 +28,7 @@ I'm **Nate Houk** – an Italian-American mathematician, computer engineer, deri
 
 - **Tech Enthusiast**: I dive deep into programming, machine learning, and generative AI. My love for prompt engineering pushes boundaries in the world of artificial intelligence.
 - **Financial Maverick**: With years of experience in derivatives trading at top-tier high-frequency trading firms like IMC Financial Markets and Wolverine Trading, I thrive in high-stakes environments.
-- **Musical Visionary**: In 2015, I founded **Epsilon Records** and pioneered the genre of **Beautiful Techno** – a sublime blend of techno’s intensity with atmospheric, melodic nuances. Discover our latest releases on [Bandcamp](https://bandcamp.com).
+- **Musical Visionary**: In 2015, I founded **Epsilon Records** and pioneered the genre of **Beautiful Techno** – a sublime blend of techno’s intensity with atmospheric, melodic nuances. Discover our latest releases on [Bandcamp](https://epsilonrecords.bandcamp.com).
 - **Academic Achiever**: Graduating *summa cum laude* from the University of Southern California in 2008 with a 4.0 GPA in Computer Engineering and Computer Science, I’ve always been driven by a passion for learning and excellence.
 - **Community Leader**: I founded the USC Chapter of Engineers Without Borders (EWB) in 2006, serving as President until 2008. This 501(c)3 organization is dedicated to improving lives through sustainable engineering solutions.
 
